@@ -1,6 +1,6 @@
 #Grading Exercise
 
-**Instructions:** Fork and clone this repository.  Create a file called `grader.js` and write the following functions inside of it.  You must have full test coverage(write a bunch of jasmine tests for each function).  This is an open-book exercise.  Feel free to refer to your notes and the jasmine docs.
+**Instructions:** Fork and clone this repository.  Create a file called `grader.js` and write the following functions inside of it.  You must have full test coverage (write a bunch of jasmine or mocha/chai tests for each function).  This is an open-book exercise.  Feel free to refer to your notes and the jasmine or mocha/chai docs.
 
 ###Letter Grader
 
